@@ -4,7 +4,7 @@
 [![Build Status](https://github.com/timadeg/polypharmacyR/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/timadeg/polypharmacyR/actions)
 [![Codecov](https://codecov.io/gh/timadeg/polypharmacyR/branch/main/graph/badge.svg)](https://codecov.io/gh/timadeg/polypharmacyR)
 
-polypharmacyR is an R package designed to help researchers and clinicians measure, summarize, and visualize polypharmacy in observational or administrative medication data. It provides tools for medication counting, burden scoring, longitudinal medication timelines, and (optionally) drug–drug interaction screening and population-level reporting.
+polypharmacyR is an R package that provides fast, reproducible tools for measuring, summarizing, and visualizing polypharmacy from electronic health and administrative medication data. It supports person-level medication counting, burden metrics (e.g., DDD and score-based measures), overlapping-exposure detection, and timeline visualizations. This work was developed in collaboration with Keele University School of Medicine.
 
 - Website / Docs: (add pkgdown site URL when available)
 - Issues & contributions: https://github.com/timadeg/polypharmacyR/issues
