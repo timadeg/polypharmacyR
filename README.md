@@ -174,7 +174,7 @@ Contact & support
 
 - Repo: https://github.com/timadeg/polypharmacyR
 - Issues: https://github.com/timadeg/polypharmacyR/issues
-- Maintainer: Tim Adeg (github: timadeg) — please open issues for bugs, feature requests, or questions.
+- Maintainer: Timothy Adegbola (github: timadeg) — please open issues for bugs, feature requests, or questions.
 
 Acknowledgements
 
