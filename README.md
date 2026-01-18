@@ -181,4 +181,3 @@ Acknowledgements
 Thank you to contributors and the R community. Portions of functionality are inspired by best practices in pharmacoepidemiology.
 
 ---
-This README is a template. Replace placeholder sections (badges, citation, doc links, license) with project-specific information.
